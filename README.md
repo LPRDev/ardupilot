@@ -1,13 +1,13 @@
 #ArduPilot for RoverSentry#
->RoverSentry is a project using the Raspberry Pi 2 and Ardupilot 2.5 to autonomously control a modified RC car.
+AurduPlilotRS is a fork of the Ardupilot(https://github.com/diydrones/ardupilot) project for the [RoverSentry project](https://github.com/LPRDev/RoverSentry). AurduPlilotRS will continue to support the APM 2.6, specifically for the APMRover2 make's APM 2.X target. ArduPilotRS is providing modifications for the APM2.6 to communicate with a RaspberryPi over a serial interface. 
 
-### RoverSentry uses: ###
->>ArduRover (or APMrover2) : [code](https://github.com/diydrones/ardupilot/tree/master/APMrover2), [wiki](http://rover.ardupilot.com)
+### RoverSentry based upon: ###
+* ArduRover (or APMrover2) : [code](https://github.com/diydrones/ardupilot/tree/master/APMrover2)
+* [ardu pilot wiki](http://rover.ardupilot.com)
 
 ### Developer Information ###
->>Github repository: [https://github.com/LPRDev/arudpilotRS](https://github.com/LPRDev/arudpilotRS)
-
->>Ardupilot wiki: [http://dev.ardupilot.com](http://dev.ardupilot.com)
+* [RoverSentry](https://github.com/LPRDev/RoverSentry) 
+* [ardupilotRS wiki](https://github.com/LPRDev/ardupilotRS/wiki)
 
 ### Crew ###
 >> - [Peter](https://github.com/petercr19)

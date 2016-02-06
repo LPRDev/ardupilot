@@ -1,5 +1,5 @@
 #ArduPilot for RoverSentry#
-AurduPlilotRS is a fork of the Ardupilot(https://github.com/diydrones/ardupilot) project for the [RoverSentry project](https://github.com/LPRDev/RoverSentry). AurduPlilotRS will continue to support the APM 2.6, specifically for the APMRover2 make's APM 2.X target. ArduPilotRS is providing modifications for the APM2.6 to communicate with a RaspberryPi over a serial interface. 
+AurduPlilotRS is a fork of the [Ardupilot GitHub Porject](https://github.com/diydrones/ardupilot) created for the [RoverSentry project](https://github.com/LPRDev/RoverSentry). AurduPlilotRS will continue to support the APM 2.6, specifically for the APMRover2 make's APM 2.X target. ArduPilotRS is providing modifications for the APM2.6 to communicate with a RaspberryPi over a serial interface. 
 
 ### RoverSentry based upon: ###
 * ArduRover (or APMrover2) : [code](https://github.com/diydrones/ardupilot/tree/master/APMrover2)
